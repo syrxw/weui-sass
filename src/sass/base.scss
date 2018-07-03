@@ -1,0 +1,89 @@
+/*
+* Tencent is pleased to support the open source community by making WeUI available.
+* 
+* Copyright (C) 2017 THL A29 Limited, a Tencent company. All rights reserved.
+* 
+* Licensed under the MIT License (the "License"); you may not use this file except in compliance
+* with the License. You may obtain a copy of the License at
+* 
+*       http://opensource.org/licenses/MIT
+* 
+* Unless required by applicable law or agreed to in writing, software distributed under the License is
+* distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+* either express or implied. See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+
+@import "./ui/base/reset";
+
+// icon font
+@import "./ui/icon/weui-icon_font";
+
+
+// button
+@import "./ui/widget/weui-button/weui-button";
+
+// cell
+@import "./ui/widget/weui-cell/weui-cell_global";
+@import "./ui/widget/weui-cell/weui-cell_swiped";
+
+@import "./ui/widget/weui-cell/weui-access";
+@import "./ui/widget/weui-cell/weui-check";
+@import "./ui/widget/weui-cell/weui-form";
+@import "./ui/widget/weui-cell/weui-gallery";
+@import "./ui/widget/weui-cell/weui-switch";
+@import "./ui/widget/weui-cell/weui-uploader";
+
+// msg
+@import "./ui/widget/weui-page/weui-msg";
+
+// article
+@import "./ui/widget/weui-page/weui-article";
+
+// tab
+@import "./ui/widget/weui-tab/weui-tab";
+
+// progress
+@import "./ui/widget/weui-progress/weui-progress";
+
+// panel
+@import "./ui/widget/weui-panel/weui-panel";
+
+// media box
+@import "./ui/widget/weui-media-box/weui-media-box";
+
+// grid
+@import "./ui/widget/weui-grid/weui-grid";
+
+// copyright
+@import "./ui/widget/weui-footer/weui-footer";
+
+
+// flex
+@import "./ui/widget/weui-flex/weui-flex";
+
+// tips
+@import "./ui/widget/weui-tips/weui-dialog";
+@import "./ui/widget/weui-tips/weui-toast";
+@import "./ui/widget/weui-tips/weui-mask";
+@import "./ui/widget/weui-tips/weui-actionsheet";
+@import "./ui/widget/weui-tips/weui-loadmore";
+@import "./ui/widget/weui-tips/weui-badge";
+
+//searchbar
+@import "./ui/widget/weui-searchbar/weui-searchbar";
+
+// picker
+@import "./ui/widget/weui-picker/weui-picker";
+
+// animate
+@import "./ui/widget/weui-animate/weui-animate";
+
+// agree
+@import "./ui/widget/weui-agree/weui-agree";
+
+// loading
+@import "./ui/widget/weui-loading/weui-loading";
+
+// slider
+@import "./ui/widget/weui-slider/weui-slider";
